@@ -50,3 +50,12 @@
 </div>
 
 ###
+
+<p align="left">Aqui você encontrará meus passos para entrar na Laboratoria para fazer o bootcamp de análise de dados:</p>
+[Projeto 0]
+
+[Projeto 0]: https://github.com/bsap16/portifolio_dados/raw/main/Projeto%200%20-%20%20Teste%20de%20dados%20da%20Netflix.xlsx
+
+
+
+###
