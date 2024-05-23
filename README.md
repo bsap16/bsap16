@@ -71,5 +71,10 @@ Esse foi o primeiro projeto que utilizei segmentação de dados, fiz análise de
 
 [Projeto 01]:https://github.com/bsap16/portifolio_dados/blob/main/Projeto%2001%20-%20Segmenta%C3%A7%C3%A3o.md
 
+[Projeto 02]
+
+Nesse projeto pude trabalhar em dupla, trabalhei com novas ferramentas como Big Query e Google Colab, iniciei meus estudos em estatística para responder hipóteses e aprendi como limpar dados com SQL e Python.
+
+[Projeto 02]:https://github.com/bsap16/hipoteses-spotify
 
 ###
