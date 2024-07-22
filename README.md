@@ -33,9 +33,7 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
+   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
@@ -47,6 +45,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
 ###
@@ -73,8 +73,22 @@ Esse foi o primeiro projeto que utilizei segmentação de dados, fiz análise de
 
 [Projeto 02]
 
-Nesse projeto pude trabalhar em dupla, trabalhei com novas ferramentas como Big Query e Google Colab, iniciei meus estudos em estatística para responder hipóteses e aprendi como limpar dados com SQL e Python.
+Nesse projeto pude trabalhar em colaboração com [Bruna Pereira] e trabalhei com novas ferramentas como Big Query e Google Colab, iniciei meus estudos em estatística para responder hipóteses e aprendi como limpar dados com SQL e Python.
 
 [Projeto 02]:https://github.com/bsap16/hipoteses-spotify
+
+[Projeto 03]
+
+Nesse projeto aprendi e apliquei os conceitos de risco relativo para um banco que precisava de uma ferramenta mais eficiente na escolha de clientes para emprestimos, utilizei matriz de confusão, regressão logística e balaceamento SMOTE utilizando Python no Google Colab e ETL com SQL no Big Query. O dashboard foi desenvolvido no Looker Studio.
+
+[Projeto 03]:https://github.com/bsap16/risco_relativo
+
+[Projeto 04]
+
+Neste projeto, realizado em colaboração com [Bruna Pereira], analisamos os dados de tráfego aéreo dos Estados Unidos em janeiro de 2023. Avaliamos o risco relativo para diversas hipóteses e realizamos testes de qui-quadrado para validar as hipóteses levantadas. Utilizamos exclusivamente Python para ETL e testes no Google Colab. O dashboard interativo foi desenvolvido no Power BI, com o auxílio de DAX para calcular os riscos relativos.
+
+[Projeto 04]:https://github.com/pereirasbruna/trafego_aereo_eua_jan_23
+
+[Bruna Pereira]:https://github.com/pereirasbruna
 
 ###
