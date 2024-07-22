@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Eu sou uma pessoa curiosa que gosta de pensar no porquê das coisas e isso me levou a fazer duas faculdades para descobrir que posso conseguir respostas analisando dados que são gerados o tempo todo e todo lugar.<br><br>- 🔭 Atualmente trabalho avaliando modelos de inteligência artificial.<br>- 📚 Estou aprendendo estatística, a mexer e utilizar as ferramentas de visualização de dados como Power BI e Looker Studio, além de aprender a limpar dados em SQL e Python, que também utilizo para realizar testes estatísticos em meus projetos.<br>- ⚡No meu tempo livre eu gosto de sair ao ar livre, ler webtoons, jogar conversa fora e jogar games ou boardgames com pessoas queridas.</p>
+<p align="left">Eu sou uma pessoa curiosa que gosta de pensar no porquê das coisas e isso me levou a fazer duas faculdades para descobrir que posso conseguir respostas analisando dados que são gerados o tempo todo e em todo lugar.<br><br>- 🔭 Atualmente trabalho avaliando modelos de inteligência artificial.<br>- 📚 Estou aprendendo estatística, a mexer e utilizar as ferramentas de visualização de dados como Power BI e Looker Studio, além de aprender a limpar dados em SQL e Python, que também utilizo para realizar testes estatísticos em meus projetos.<br>- ⚡No meu tempo livre, adoro atividades ao ar livre, ler webcomics, bater papo e jogar videogames ou jogos de tabuleiro com pessoas queridas.</p>
 
 ###
 
