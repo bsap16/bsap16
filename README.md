@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">Olá! Bem vindo(a/e) ao meu portifólio de análise de dados. 👋</h1>
+<h1 align="center">Olá! Bem vindo(a/e) ao meu portfólio de análise de dados. 👋</h1>
 
 ###
 
