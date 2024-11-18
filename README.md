@@ -19,11 +19,8 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim:</h3>
+<p align="left">👩‍💻 Sobre mim:<br>Sou uma pessoa curiosa, sempre em busca de entender o porquê das coisas. Essa paixão pela descoberta me levou a concluir dois cursos de graduação, onde percebi que posso encontrar respostas por meio da análise de dados gerados constantemente ao nosso redor.<br><br>🔭 Atualmente, estou em busca de uma oportunidade para ingressar na área de dados e aplicar meus conhecimentos em um novo desafio profissional.<br>📚 Aperfeiçoamento contínuo: Tenho me dedicado ao estudo de estatísticas por meio de livros e cursos na plataforma edX. Também estou aprofundando o uso de ferramentas de visualização de dados, como Power BI, Looker Studio e Tableau, enquanto aprimoro minhas habilidades em SQL e Python, seja por meio de projetos práticos ou cursos gamificados.<br>⚡ No meu tempo livre, gosto de atividades ao ar livre, ler webcomics, bater papo e me divertir jogando videogames ou jogos de tabuleiro com pessoas queridas.</p>
 
-###
-
-<p align="left">Eu sou uma pessoa curiosa que gosta de pensar no porquê das coisas e isso me levou a fazer duas faculdades para descobrir que posso conseguir respostas analisando dados que são gerados o tempo todo e em todo lugar.<br><br>- 🔭 Atualmente trabalho avaliando modelos de inteligência artificial.<br>- 📚 Estou aprendendo estatística, a mexer e utilizar as ferramentas de visualização de dados como Power BI e Looker Studio, além de aprender a limpar dados em SQL e Python, que também utilizo para realizar testes estatísticos em meus projetos.<br>- ⚡No meu tempo livre, adoro atividades ao ar livre, ler webcomics, bater papo e jogar videogames ou jogos de tabuleiro com pessoas queridas.</p>
 
 ###
 
@@ -42,6 +39,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
     <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
@@ -69,23 +75,12 @@ Esse foi o primeiro projeto que utilizei segmentação de dados, fiz análise de
 
 [Projeto 01]:https://github.com/bsap16/portifolio_dados/blob/main/Projeto%2001%20-%20Segmenta%C3%A7%C3%A3o.md
 
+
 [Projeto 02]
-
-Nesse projeto pude trabalhar em colaboração com [Bruna Pereira] e trabalhei com novas ferramentas como Big Query e Google Colab, iniciei meus estudos em estatística para responder hipóteses e aprendi como limpar dados com SQL e Python.
-
-[Projeto 02]:https://github.com/bsap16/hipoteses-spotify
-
-[Projeto 03]
-
-Nesse projeto aprendi e apliquei os conceitos de risco relativo para um banco que precisava de uma ferramenta mais eficiente na escolha de clientes para emprestimos, utilizei matriz de confusão, regressão logística e balaceamento SMOTE utilizando Python no Google Colab e ETL com SQL no Big Query. O dashboard foi desenvolvido no Looker Studio.
-
-[Projeto 03]:https://github.com/bsap16/risco_relativo
-
-[Projeto 04]
 
 Neste projeto, realizado em colaboração com [Bruna Pereira], analisamos os dados de tráfego aéreo dos Estados Unidos em janeiro de 2023. Avaliamos o risco relativo para diversas hipóteses e realizamos testes de qui-quadrado para validar as hipóteses levantadas. Utilizamos exclusivamente Python para ETL e testes no Google Colab. O dashboard interativo foi desenvolvido no Power BI, com o auxílio de DAX para calcular os riscos relativos.
 
-[Projeto 04]:https://github.com/pereirasbruna/trafego_aereo_eua_jan_23
+[Projeto 02]:https://github.com/pereirasbruna/trafego_aereo_eua_jan_23
 
 [Bruna Pereira]:https://github.com/pereirasbruna
 
